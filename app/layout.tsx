@@ -5,7 +5,7 @@ import './globals.css';
 const montserrat = Montserrat({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-	title: 'Brain Tech',
+	title: 'BrainTech',
 	description: 'High accuracy alzheimer AI predictor',
 };
 

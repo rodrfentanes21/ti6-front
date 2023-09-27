@@ -9,20 +9,15 @@ export default function Home() {
 				</div>
 			</section>
 			<AboutComponent
-				title='Teste'
+				title='A Equipe'
 				body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet!'
 				// add image props later
 			/>
 			<AboutComponent
-				title='Teste'
+				title='Nosso objetivo'
 				body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet!'
 				// add image props later
 				reversed
-			/>
-			<AboutComponent
-				title='Teste'
-				body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet!'
-				// add image props later
 			/>
 		</main>
 	);
