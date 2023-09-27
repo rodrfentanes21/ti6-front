@@ -1,11 +1,13 @@
+import Image from 'next/image';
+
 interface AboutComponentProps {
 	title: string;
 	body: string;
-	// add image later
+	image: any;
 	reversed?: boolean;
 }
 
-function AboutComponent({ title, body, reversed }: AboutComponentProps) {
+function AboutComponent({ title, body, image, reversed }: AboutComponentProps) {
 	const flexDirection = reversed ? 'row-reverse' : 'row';
 	return (
 		<section
@@ -17,8 +19,12 @@ function AboutComponent({ title, body, reversed }: AboutComponentProps) {
 				<p className='text-xs md:text-sm lg:text-base'>{body}</p>
 			</div>
 			<div className='h-full w-screen lg:w-1/2 grid place-items-center text-2x1'>
-				{/* <Image src={image} alt="Descrição da imagem" width={250} height={250} />*/}
-				teste
+				<Image
+					src={image}
+					alt='Descrição da imagem'
+					width={500}
+					height={500}
+				/>
 			</div>
 		</section>
 	);

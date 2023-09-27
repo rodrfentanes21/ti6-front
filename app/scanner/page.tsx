@@ -1,3 +1,10 @@
+import ArrowBack from '@/components/ArrowBack';
+
 export default function Home() {
-	return <div className='text-underline'>scanner</div>;
+	return (
+		<>
+			<ArrowBack />
+			<div className='text-underline'>scanner</div>
+		</>
+	);
 }
