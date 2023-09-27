@@ -8,8 +8,8 @@ function Hero() {
 					BrainTech
 				</div>
 				<div className='text-emerald-700 text-center'>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste
-					distinctio fuga necessitatibus! Accusantium voluptatibus
+					Oferta de serviços baseados em IA para o auxilio no combate ao
+					Alzheimer
 				</div>
 			</div>
 			<div className=' flex flex-col gap-5 xl:flex-row xl:justify-around xl:w-2/4'>
