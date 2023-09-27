@@ -14,9 +14,9 @@ function Hero() {
 			</div>
 			<div className=' flex flex-col gap-5 xl:flex-row xl:justify-around xl:w-2/4'>
 				<Link
-					href='/authors'
+					href='/about'
 					className='bg-gradient-to-r from-emerald-500 via-emerald-700 to-emerald-900 transition-all bg-size-200 bg-pos-0 duration-500 hover:bg-pos-100 text-black text-lg font-light rounded-lg px-5 py-1 select-none'>
-					Sobre os Autores
+					Sobre o Projeto
 				</Link>
 				<Link
 					href='/scanner'
