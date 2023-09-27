@@ -1,3 +1,5 @@
+import Hero from '@/components/MainPage/Hero';
+
 export default function Home() {
-	return <p className=' underline'>teste</p>;
+	return <Hero />;
 }
