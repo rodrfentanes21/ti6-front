@@ -9,7 +9,7 @@ export default function Home() {
 			<ArrowBack />
 			<section className='w-full h-screen flex justify-center items-center'>
 				<div className='text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-emerald-900 text-6xl h-48 grid place-items-center'>
-					O Projeto batata
+					O Projeto
 				</div>
 			</section>
 			<AboutComponent
