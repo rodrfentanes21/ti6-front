@@ -4,10 +4,9 @@ interface AboutComponentProps {
 	title: string;
 	body: string;
 	image: any;
-	reversed?: boolean;
 }
 
-function AboutComponent({ title, body, image, reversed }: AboutComponentProps) {
+function AboutComponent({ title, body, image }: AboutComponentProps) {
 	return (
 		<section
 			className={`flex flex-col lg:flex-row lg:even:flex-row-reverse justify-start h-screen w-[90%] items-start py-10`}>

@@ -21,7 +21,6 @@ export default function Home() {
 				title='Nosso objetivo'
 				body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eveniet at praesentium deserunt suscipit cupiditate, aliquid alias voluptatum aspernatur ut, quaerat, minus obcaecati vel nobis voluptatibus ipsa facere possimus libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolor ab corporis odio aperiam veritatis est eaque, architecto magni ipsa culpa esse eius libero labore! Nulla sapiente dolor mollitia eveniet!'
 				image={BrainImage}
-				reversed
 			/>
 		</main>
 	);
