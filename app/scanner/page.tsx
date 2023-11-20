@@ -17,7 +17,7 @@ export default function Home() {
 		e.preventDefault();
 	
 		const formData = new FormData();
-		formData.append("file", fileReq);
+		formData.append("file", fileReq as any);
 	
 		const options = {
 		  method: "POST",
