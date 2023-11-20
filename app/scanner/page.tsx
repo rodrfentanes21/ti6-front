@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { useState } from 'react';
 
 export default function Home() {
-	const [file, setFile] = useState();
+	const [file, setFile] = useState("");
 	const [fileReq, setFileReq] = useState();
 	const [brainStatus, setBrainStatus] = useState("");
     function handleChange(e:any) {
